@@ -1,0 +1,6 @@
+{
+  "name": "EduMaker",
+  "description": "Gerador de Atividades Pedagógicas com Inteligência Artificial integrado ao currículo da BNCC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
